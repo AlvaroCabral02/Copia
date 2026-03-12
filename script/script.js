@@ -17,7 +17,7 @@ function openModal(Produtos) {
             break;
         case "PortaTesoura.jpg":
             txt1.innerHTML = "Porta Tesoura";
-            txt2.innerHTML = "Porta tesoura constumizavel";
+            txt2.innerHTML = "Porta tesoura customizavel";
             txt3.innerHTML = "R$18,00";
             break;
         //Segunda Linha dos mais vendidos
@@ -116,7 +116,7 @@ function OpenDescricao(Produtos, botao) {
             break;
         case "PortaCaneta.jpg":
             txt1.innerHTML = "Porta Caneta";
-            txt2.innerHTML = "Porta Caneca Costumizavel";
+            txt2.innerHTML = "Porta Caneca customizavel";
             txt3.innerHTML = "R$7,00";
             break;
         case "PortaChinelo.jpg":
@@ -146,7 +146,7 @@ function OpenDescricao(Produtos, botao) {
             break;
         case "PulseiraParaCelular.jpg":
             txt1.innerHTML = "Pulseiras para Celular";
-            txt2.innerHTML = "Pulseiras para colocar na capinha do celular usar para não cair o celular";
+            txt2.innerHTML = "Pulseiras para colocar na capinha do celular";
             txt3.innerHTML = "R$15,00";
             break;
         case "ToucaDeCetim.jpg":
